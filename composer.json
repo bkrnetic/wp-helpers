@@ -1,0 +1,17 @@
+{
+    "name": "bkrnetic/wp-helpers",
+    "description": "Standard package for WP development",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WP team",
+            "email": "bruno.krnetic@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "bkrnetic\\wpHelpers\\": "src"
+        }
+    }
+}
